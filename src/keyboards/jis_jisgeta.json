@@ -7,7 +7,7 @@
       {"id": "1", "legend": ["ぬ", "1"], "size": 1, "finger": 0},
       {"id": "2", "legend": ["ふ", "2"], "size": 1, "finger": 1},
       {"id": "3", "legend": ["あ", "3"], "size": 1, "finger": 2},
-      {"id": "4", "legend": ["ま", "4"], "size": 1, "finger": 3}, // う→ま
+      {"id": "4", "legend": ["ま", "4"], "size": 1, "finger": 3},
       {"id": "5", "legend": ["え", "5"], "size": 1, "finger": 3},
       {"id": "6", "legend": ["お", "6"], "size": 1, "finger": 6},
       {"id": "7", "legend": ["や", "7"], "size": 1, "finger": 6},
@@ -16,7 +16,7 @@
       {"id": "0", "legend": ["わ", "0"], "size": 1, "finger": 9},
       {"id": "-", "legend": ["ほ", "-"], "size": 1, "finger": 9},
       {"id": "^", "legend": ["へ", "^"], "size": 1, "finger": 9},
-      {"id": "\\", "legend": ["ー", "\\"], "size": 1, "finger": 9}, // 濁点位置
+      {"id": "\\", "legend": ["ー", "\\"], "size": 1, "finger": 9},
       {"id": "bs", "legend": ["BS"], "size": 1, "finger": 9}
     ], [
       {"id": "tab", "legend": ["Tab"], "size": 1.5, "finger": 0},
@@ -30,17 +30,17 @@
       {"id": "i", "legend": ["に", "I"], "size": 1, "finger": 7},
       {"id": "o", "legend": ["ら", "O"], "size": 1, "finger": 8},
       {"id": "p", "legend": ["せ", "P"], "size": 1, "finger": 9},
-      {"id": "[", "legend": ["つ", "["], "size": 1, "finger": 9}, // 半濁点位置
+      {"id": "[", "legend": ["つ", "["], "size": 1, "finger": 9},
       {"id": "]", "legend": ["む", "]"], "size": 1, "finger": 9}
     ], [
       {"id": "caps", "legend": ["Caps Lock"], "size": 1.75, "finger": 0},
       {"id": "a", "legend": ["ち", "A"], "size": 1, "finger": 0, "home": true},
       {"id": "s", "legend": ["と", "S"], "size": 1, "finger": 1, "home": true},
       {"id": "d", "legend": ["し", "D"], "size": 1, "finger": 2, "home": true},
-      {"id": "f", "legend": ["っ", "F"], "size": 1, "finger": 3, "home": true}, // き→っ
+      {"id": "f", "legend": ["っ", "F"], "size": 1, "finger": 3, "home": true},
       {"id": "g", "legend": ["く", "G"], "size": 1, "finger": 3},
-      {"id": "h", "legend": ["う", "H"], "size": 1, "finger": 6}, // ま→う
-      {"id": "j", "legend": ["ま", "J"], "size": 1, "finger": 6, "home": true}, // う→ま
+      {"id": "h", "legend": ["う", "H"], "size": 1, "finger": 6},
+      {"id": "j", "legend": ["ま", "J"], "size": 1, "finger": 6, "home": true},
       {"id": "k", "legend": ["の", "K"], "size": 1, "finger": 7, "home": true},
       {"id": "l", "legend": ["り", "L"], "size": 1, "finger": 8, "home": true},
       {"id": ";", "legend": ["れ", ";"], "size": 1, "finger": 9, "home": true},
@@ -48,7 +48,7 @@
       {"id": "_", "legend": ["ろ", "_"], "size": 1, "finger": 9}
     ], [
       {"id": "shift", "legend": ["Shift"], "size": 2.25, "finger": 0},
-      {"id": "z", "legend": ["つ", "Z"], "size": 1, "finger": 0}, // つは[の位置にも
+      {"id": "z", "legend": ["つ", "Z"], "size": 1, "finger": 0},
       {"id": "x", "legend": ["さ", "X"], "size": 1, "finger": 1},
       {"id": "c", "legend": ["そ", "C"], "size": 1, "finger": 2},
       {"id": "v", "legend": ["ひ", "V"], "size": 1, "finger": 3},

@@ -16,6 +16,7 @@
   import nicola from './keyboards/jis_nicola.json';
   import eucalyn from './keyboards/jis_eucalyn.json';
   import shingeta from './keyboards/jis_shingeta.json';
+  import jisgeta from './keyboards/jis_jisgeta.json';
   import asuka from './keyboards/jis_asuka123.json';
   import arensito from './keyboards/ortho_arensito.json';
   import isa from './keyboards/ortho_isa.json';
@@ -51,6 +52,7 @@
     "新JIS": shinjis,
     "親指シフト": nicola,
     "新下駄": shingeta,
+    "JIS下駄": jisgeta,
     "飛鳥123": asuka,
     "月配列2-263": tsuki,
     "けいならべ": keinarabe,

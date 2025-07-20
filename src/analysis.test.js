@@ -7,6 +7,7 @@ import kana from './keyboards/jis_kana.json';
 import nicola from './keyboards/jis_nicola.json';
 import eucalyn from './keyboards/jis_eucalyn.json';
 import shingeta from './keyboards/jis_shingeta.json';
+import jisgeta from './keyboards/jis_jisgeta.json';
 import asuka from './keyboards/jis_asuka123.json';
 import basekit from './keyboards/ortho_basekit.json';
 import srlby from './keyboards/ortho_srlby.json';

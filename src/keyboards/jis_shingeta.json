@@ -269,6 +269,7 @@
     "べ": {"keys": [","], "shift": ["d"], "type": "sim", "ime": true, "renzsft": false},
     "ぷ": {"keys": ["."], "shift": ["d"], "type": "sim", "ime": true, "renzsft": false},
     "ヴ": {"keys": ["/"], "shift": ["d"], "type": "sim", "ime": true, "renzsft": false},
+    "ゔ": {"keys": ["/"], "shift": ["d"], "type": "sim", "ime": true, "renzsft": false},
 
     "ゃ":  {"keys":["1"], "shift": ["l"], "type": "sim", "ime": true, "renzsft": false},
     "みゃ": {"keys":["2"], "shift": ["l"], "type": "sim", "ime": true, "renzsft": false},
